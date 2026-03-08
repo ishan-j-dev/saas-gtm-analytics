@@ -1,10 +1,8 @@
-# saas-gtm-analytics
-B2B SaaS growth analytics assessment — MySQL, Python, Power BI. Covers MRR, churn, funnel analysis, channel efficiency and LTV across 3 datasets.
-
 # Emergence Data Analyst Take-Home Assessment
 **Role:** Data Analyst — SaaS Growth & GTM Analytics  
 **Tools:** MySQL · Python · Power BI  
 **Database:** saasgtm  
+B2B SaaS growth analytics assessment — MySQL, Python, Power BI. Covers MRR, churn, funnel analysis, channel efficiency and LTV across 3 datasets.
 
 ---
 
