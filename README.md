@@ -45,7 +45,7 @@ data-analyst-assessment/
 │   ├── dashboard_page1.png   (Acquisition & Funnel)
 │   ├── dashboard_page2.png   (Revenue & Churn)
 │   ├── dashboard_page3.png   (Channel & Segment)
-│   └── dashboard_link.txt
+│   └── SaaS dashboard.pbix
 │
 └── README.md
 ```
