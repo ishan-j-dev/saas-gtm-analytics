@@ -172,16 +172,13 @@ Churned           407    44.9% of paid
 
 ### 5.5 Segment & LTV Analysis
 
-| Segment | Customers | ARPC | Churn Rate | Est. LTV | Avg Months |
+| Segment | Customers | ARPC | Churn Rate | Est. LTV | Avg Months Retained |
 
 |---|---|---|---|---|---|
-
-| **SMB** | 238 | 249.32 | 22.69% | **1,099** |4.4|
-| Not Provided | 220 | 259.78 | 25.00% | 1,039 |4.0|
-| Enterprise | 227 | 236.50 | 22.91% | 1,032 |4.4 |
-| **Mid-Market** | 221 | 272.60 | **28.05%** | **972** |3.6|
-
-|---|---|---|---|---|---|
+| **SMB** | 238 | 249.32 | 22.69% | **1,099** | 4.4 |
+| Not Provided | 220 | 259.78 | 25.00% | 1,039 | 4.0 |
+| Enterprise | 227 | 236.50 | 22.91% | 1,032 | 4.4 |
+| **Mid-Market** | 221 | 272.60 | **28.05%** | **972** | 3.6 |
 
 **Counter-intuitive finding: SMB has the highest LTV (1,099).**  
 Although Enterprise has brand prestige, SMB customers churn at nearly the same rate (22.69% vs 22.91%) but their LTV is slightly higher because they represent a larger volume of consistent revenue. Mid-Market has the highest ARPC (272.60) but the worst churn rate (28.05%), resulting in the lowest LTV (972) and shortest retention (3.6 months average).
