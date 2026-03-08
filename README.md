@@ -173,7 +173,6 @@ Churned           407    44.9% of paid
 ### 5.5 Segment & LTV Analysis
 
 | Segment | Customers | ARPC | Churn Rate | Est. LTV | Avg Months Retained |
-
 |---|---|---|---|---|---|
 | **SMB** | 238 | 249.32 | 22.69% | **1,099** | 4.4 |
 | Not Provided | 220 | 259.78 | 25.00% | 1,039 | 4.0 |
